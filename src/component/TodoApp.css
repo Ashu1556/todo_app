@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    margin: 1em;
+    padding: auto;
+}
+
+.container{
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container1{
+    display: flex;
+    flex-direction: row ;
+    margin-top: 1em;
+    align-items: center;
+    justify-content: center;
+    width:fit-content;
+    height: fit-content;
+    background-color: antiquewhite;
+    color: black;
+
+}
+
+.container2{
+    width:fit-content;
+    height:fit-content;
+    display: flex;
+    background-color: antiquewhite;
+    margin-top: 1em;
+    
+}
